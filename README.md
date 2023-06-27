@@ -1,4 +1,4 @@
-#Early Cancer Detection through Transcriptomic Data Analysis
+#Early Cancer Detection through Transcriptomic Data Analysis Based on Transcriptomic Data
 
 Cancer is a devastating disease that requires early detection to improve patient outcomes. In this project, we developed a deep learning model to detect any type of cancer as an anomaly in transcriptomic data. The model has the ability to act independently and is not restricted to any specific type of cancer.
 
